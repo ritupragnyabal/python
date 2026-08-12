@@ -17,7 +17,7 @@ Python programming and problem solving.
 - Star Patterns
 - Smallest Number
 - Contiguous Sequence
-- Email Calculator
+- Emi Calculator
 
 ## Purpose
 
